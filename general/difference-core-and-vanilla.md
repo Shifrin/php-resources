@@ -24,7 +24,8 @@ frameworks. So the vanilla developer actually uses the language used in the name
 
 ## Conclusion
 
-As long as you are writing PHP code, you are a `vanilla PHP developer` if you are
+As long as you are writing PHP code and not rely on any 3rd party libraries or
+frameworks, you are a `vanilla PHP developer` if you are
 however writing on the PHP core itself, you can be considered a `core PHP developer`.
 
 ## See Also
